@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for **IBM Watson Health**
 
-- 🌱 I’m currently learning **Kubernetes Admin, Helm**
+- 🌱 I’m currently learning **Kubernetes Admin, Helm, Flutter, TailwindCSS, Azure Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhimanyukolakotla](https://github.com/abhimanyukolakotla)
 
