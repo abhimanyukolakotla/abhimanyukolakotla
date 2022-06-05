@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu Kolakotla</h1>
 <h3 align="center">Java Developer, Web Developer, Drone Pilot, Python Developer, Certified Kubernetes Application Developer, Calligraphy enthusiast, Raspberry Pi tinkerer</h3>
 
-- 🔭 I’m currently working for **IBM Watson Health**
+- 🔭 I’m currently working for **Merative**
 
 - 🌱 I’m currently learning **Kubernetes Admin, Helm, Flutter, TailwindCSS, Azure Cloud**
 
